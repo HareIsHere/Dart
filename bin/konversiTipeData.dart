@@ -7,9 +7,9 @@ void main() {
   print(inputInt);
   print(inputDouble);
 
-  var intToDouble = inputInt.toDouble();
-  var doubleToInt = inputDouble.toInt();
+//  var intToDouble = inputInt.toDouble();
+//  var doubleToInt = inputDouble.toInt();
 
-  var intToString = inputInt.toString();
-  var doubleToString = inputDouble.toString();
+//  var intToString = inputInt.toString();
+//  var doubleToString = inputDouble.toString();
 }
